@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: rgb(76, 87, 151);
+    padding: 10px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: 600;
+}
+
+header img {
+    width: 100px;
+    padding: 0px 900px 0px 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 0px 60px 0px 60px;
+}
